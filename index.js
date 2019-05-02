@@ -10,6 +10,7 @@ function whisper(string){
 function logShout(string){
   console.log(string.toUpperCase());
 }
+function logWhisper()
 function sayHiToGrandma(string){
   if(string === string.toUpperCase()){
     return 'YES INDEED!'
